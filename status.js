@@ -2,7 +2,7 @@
 
 window.__INFOSIYA_STATUS__ = {
     // Main control
-    active: true,
+    active: false,
     
     // Client-specific controls
     clients: {
@@ -18,5 +18,6 @@ window.__INFOSIYA_STATUS__ = {
     globalMessage: 'All services operational',
     lastUpdated: '2025-08-10T22:36:00Z'
 };
+
 
 
