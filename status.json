@@ -1,9 +1,5 @@
 {
-  // Main control
   "active": true,
-
-  // Client-specific controls
-  //make f
   "clients": {
     "INFOSIYA_2025": {
       "active": true,
@@ -12,8 +8,6 @@
       "message": "Service Active"
     }
   },
-
-  // Global message
   "globalMessage": "All services operational",
   "lastUpdated": "2025-08-10T23:30:00Z"
 }
