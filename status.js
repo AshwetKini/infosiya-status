@@ -7,7 +7,7 @@ window.__INFOSIYA_STATUS__ = {
     // Client-specific controls
     clients: {
         'INFOSIYA_2025': {
-            active: true,
+            active: false,
             paymentDue: '2025-09-15',
             gracePeriod: 7, // days
             message: 'Service Active'
@@ -18,6 +18,7 @@ window.__INFOSIYA_STATUS__ = {
     globalMessage: 'All services operational',
     lastUpdated: '2025-08-10T22:36:00Z'
 };
+
 
 
 
