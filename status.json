@@ -1,12 +1,12 @@
 {
   // Main control
-  "active": true,
+  "active": false,
 
   // Client-specific controls
   //make f
   "clients": {
     "INFOSIYA_2025": {
-      "active": true,
+      "active": false,
       "paymentDue": "2025-09-15",
       "gracePeriod": 7,
       "message": "Service Active"
