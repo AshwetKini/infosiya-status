@@ -1,8 +1,8 @@
 {
-  "active": false,
+  "active": true,
   "clients": {
     "INFOSIYA_2025": {
-      "active": false,
+      "active": true,
       "paymentDue": "2025-09-15",
       "gracePeriod": 7,
       "message": "Service Active"
